@@ -1,0 +1,23 @@
+a {
+  color: #666 !important;
+}
+a:hover {
+  color: orange !important;
+}
+header {
+  padding: 15px 0;
+}
+
+.slider{
+    padding: 15px 0;
+}
+
+footer{
+    background-color: black;
+    padding: 20px 0;
+    margin-top: 20px;
+    color: white;
+}
+fotter a{
+    color: #ccc !important;
+}
